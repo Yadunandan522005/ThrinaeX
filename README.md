@@ -27,7 +27,7 @@ TASK 3: Predictive Analytics Using Historical Data
 * Generated a **6-month future sales forecast** along with category, region, and top-product sales insights.
 
 
-  TASK 4: Data Cleaning & Reporting Automation
+TASK 4: Data Cleaning & Reporting Automation
 
 * Cleaned a retail sales dataset using **Python and Pandas** by handling missing values, duplicates, and inconsistent data.
 * Validated numerical data by checking the relationship between **Quantity, Price Per Unit, and Total Spent**.
