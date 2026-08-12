@@ -26,3 +26,13 @@ TASK 3: Predictive Analytics Using Historical Data
 * Evaluated the model using **Mean Absolute Error (MAE) and R² Score** and visualized actual vs predicted sales.
 * Generated a **6-month future sales forecast** along with category, region, and top-product sales insights.
 
+
+  TASK 4: Data Cleaning & Reporting Automation
+
+* Cleaned a retail sales dataset using **Python and Pandas** by handling missing values, duplicates, and inconsistent data.
+* Validated numerical data by checking the relationship between **Quantity, Price Per Unit, and Total Spent**.
+* Created an automated **data quality report** and exported the cleaned dataset as CSV files.
+* Generated sales summaries and visualizations for **categories, payment methods, and top-selling items**.
+* Tools used: **Python, Pandas, NumPy, Matplotlib, and Google Colab**.
+
+
